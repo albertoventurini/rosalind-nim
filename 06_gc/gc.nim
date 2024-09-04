@@ -2,7 +2,6 @@ import os
 import std/sequtils
 import std/streams
 import nre
-import std/strformat
 
 type
     DnaString = ref DnaStringObj
